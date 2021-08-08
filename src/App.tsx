@@ -4,7 +4,9 @@ import './App.css';
 
 function App() {
   console.log(123)
-  let a = 6;
+  
+  const a = 6
+
   const  aaa = (params:number) => {
     console.log(123)
   }
