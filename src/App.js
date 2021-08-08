@@ -4,10 +4,12 @@ import './App.css';
 function App() {
   const a = 6
   const aaa = () => {
-    console.log(123);
+    console.log(123)
 
-    
+
   }
+  aaa()
+
   return (
     <div className="App">
       <header className="App-header">
