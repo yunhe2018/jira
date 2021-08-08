@@ -3,6 +3,11 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  console.log(123)
+  let a = 6;
+  const  aaa = (params:number) => {
+    console.log(123)
+  }
   return (
     <div className="App">
 
