@@ -6,6 +6,7 @@ function App() {
   console.log(123)
   
   const a = 6
+  const b= 8;
 
   const  aaa = (params:number) => {
     console.log(123)
