@@ -177,6 +177,6 @@
     }
   },
   "lint-staged": {
-    ".js": "npm run lint-staged:js"
+    "*.{js,jsx,tsx,css,md,ts,vue,scss,json}": "prettier --write"
   }
 }
