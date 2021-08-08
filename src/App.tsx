@@ -9,9 +9,11 @@ function App() {
   const b = 8;
   const c = 9;
   console.log(12);
+
   const aaa = (params: number) => {
     console.log(123);
   };
+
   return (
     <div className="App">
       <header className="App-header">
